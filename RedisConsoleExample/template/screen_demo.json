@@ -1,0 +1,3275 @@
+﻿{
+	"Content": {
+		"ScreenTemplate": {
+			"DB0FB2F0-09D1-4BFF-B174-FF9CF0EFD2B8": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Member ID",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"86B37EF7-89F5-449B-8366-D87F5E00D2B8": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Relationship to Insured",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"7CD831A3-6115-41A6-B5D2-EE001DAD6F0C": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Last Name",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"4F27EBC8-CA3D-47CF-8E0F-7EF000A34AA1": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "First Name",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"9883D3F4-AD08-4AC2-94F3-DBD9AD34EA59": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Middle Initial",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"E9528B14-C989-4B45-8863-3223088485F0": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Date of Birth",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"33AE6864-5034-4A32-9EE0-311884D0E1D7": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Gender",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"AA795106-DFCD-4D98-BAEB-14D26E751AA7": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"E838C669-668C-4C99-A0FB-70CB6BF8F12E": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"6FA93C70-E9BB-43FC-BDE3-FBB2BD8692D5": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Insured ID",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"925E2FDE-A7D7-40B5-84C0-43194DCD7402": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Insured First Name",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"65642726-98D2-4C27-9540-DE24F12D163E": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Insured Last Name",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"9B36BB55-76E9-4C65-8413-113E9ED5E829": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Allergies",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"FFF313FC-504B-4A75-AAB4-DCD8325E1BF4": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"7AEDFBEA-9AE2-4349-BD95-E07BA346F62D": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Phone",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"38ED1238-DDD5-4FDF-BE1B-2A5E14AEAD9A": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Preferred Language",
+				"AccessibilityValue": "Optional",
+				"isInstance": false
+			},
+			"B5857B6B-E10B-4B44-AD10-149B84E45452": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Type",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"AB30FD05-E118-4CC4-A5C7-618AF7F3648E": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Line 1",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"3D5C9D31-D66B-4A07-98B4-6DF0844AD387": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Line 2",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"6676E52E-A117-4EF3-95A5-BB3C8DF0ABE3": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "City",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"3FA5069C-8D49-4DA4-B283-598590FA6894": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "State",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"45A3E95D-52DD-4BCB-8272-41229B9BF90B": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "ZIP",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"D9D7280C-30C2-4B29-BDD2-4AA09007889B": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "MemberAddress",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"84F90399-34D5-4CD6-BEAD-FF9E550B7B83": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Insurance Group Number",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"714099EC-41B8-4572-9D9D-B8B5BC382AC7": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Effective Date",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"89D31E26-67B2-4AF5-8C82-6D20E901C653": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Termination Date",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"93B7FABC-7D23-4234-8B29-BA6EEAB5FF9D": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Line Of Business",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"422D4A73-856C-4ECD-A2DC-EDEFDEBEFDEC": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"8CFB8822-2796-469E-AA81-7C0841FAC25A": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Type",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"42899C75-7280-46C6-BA27-119BFDDBE980": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"61EF39B7-15EA-408B-A9B0-8E87C6D63A5B": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "NPI",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"95B858A5-A6C9-4FEA-9C94-FE029DCD0C9B": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"2BF5FD7B-B2B5-445D-8EE5-D9F598DDEE0F": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "MD Office Contact Fax Number",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"C53F310F-E45D-4F49-9740-EA4E56A2D0DE": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "MD Office Contact Name",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"09076F53-E503-4329-9815-CE2E40859E06": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "MD Office Contact Phone Number",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"D3E6612F-CA31-43D5-80DC-4C693B18CB2B": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Name",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"F4A40571-A493-4EB4-A86D-7ADF39BABF81": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"887EA1AD-8344-4903-B49A-67E99CC894CB": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Address",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"3E313E9A-95CF-4F9E-A7D2-BA89A72B06C3": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Line 2",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"2D5F6606-A83E-4FCF-BF16-01173C1C51CC": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "City",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"86F4403B-2B32-44B5-B806-E9D8E2A220F8": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Tax ID",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"98F93C38-4E2F-4EB6-919E-02334CF6B368": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "External Provider ID",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"D02F4AB2-34E6-413C-B74E-EE442C02D512": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Diagnosis",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"816013CF-9A74-4BCB-B598-3B289838B58F": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "PrimaryDiseaseDescription",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"11878101-9C15-49DB-919C-1A7A2FC620F5": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "PrimaryMolecularMarker",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"D4B36FD6-53A2-4D58-95E1-FB42602C864C": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "PrimaryPerformanceStatus",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"64017A38-7ED1-4B0B-9A17-23ABE3AA584D": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "PrimaryStage",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"340A4D72-3FF9-4AB7-9E9F-C811A4B1D7FC": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "PrimaryTreamentSetting",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"EE3F96F3-F5E5-48DD-B43A-F2C5BFE0DEE7": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Authorization Requested Date",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"AFA23EE0-AD75-41DA-B9D9-4E42E941511D": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Authorization Start Date",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"762B091B-BB1B-47A6-99B4-4DA431504F28": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Authorization End Date",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"F1037118-6723-4725-B4ED-42569B617EBF": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Authorization Priority",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"236D298C-EBB1-44C4-8B08-7A85BC9F8A36": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"1CA2AA39-29B9-4052-8A07-A27F42AF9564": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "AuthDecisionDate",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"3986FFED-C312-42F8-B3AD-962C4C5191A9": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "BenefitType",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"3528AFFD-3ECD-4858-9FFD-701DABD4D66A": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "AuthorizationDateType",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"1921FBF5-5334-4E62-8280-B1ACFDB924D4": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"57F78673-607C-4992-B344-7D4DA137DED8": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"B85256F3-55FA-4C35-819D-C2933D663285": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"8AD6A4EA-0289-40D2-9CC7-52DB1D19E6B5": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"C7D7D4C7-9380-45D7-B8DC-20D02F1D84A4": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"A7040EB3-2EA5-414A-93A8-8339DB9DCFAD": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"4A908685-D7D3-4AE3-A478-73D97663A80D": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "RequestType",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"97FC3E5B-ADB3-4650-9E71-8AE902188E7F": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"47BCC09B-830A-458F-9E70-6E5A3FAA1AED": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Service Date Begin",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"C6C5A778-7183-4F0F-95EE-FB6C7132A5DC": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Service Date End",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"29F6AC27-7DA4-457F-9AF4-C1C010211EFF": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Where will this drug be administered?",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"5F4032A1-1898-4F58-8E59-4C3DEB945721": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"2CD6A4BE-6832-4AAD-B1A7-6450312303D2": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"EA5469B7-5A20-4BD5-A2B1-34D3DE077702": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"003223E0-3889-4DD0-8FFA-AA2D7DA23985": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "RequestedHCPCSCode",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"4A23D87E-2029-4972-922B-C45C0A4FC1F0": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"5BA0C372-5D80-484C-B5F1-498E449FBC3F": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Hcpcs Code",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"2B2341FE-B114-4A07-8B07-2BB0A93A703A": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Hcpcs Code",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"71881732-147A-4D90-AC3A-B5D1DEAE225E": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "NDC Code",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"5CD7ACAC-9B62-41A7-9F02-D0429E1067D1": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "NDC Code",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"3FC6D320-F235-47A9-AE05-A9FFC7EABF4A": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "NDC Name",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"6CBE2293-A961-44F1-8D7B-F2210E2C5C50": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "NDC Name",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"F6AEFFA4-707D-492C-B832-E48FA105FC9C": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Strength",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"2A0ABB53-145B-4193-963B-1D2FF23B2812": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Strength/Measure",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"58727587-B5F4-4520-B8A0-F992E6CAFBBC": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Dosage Form",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"CC6A09DB-DFDA-4F1C-A398-BC83AF00FC05": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Dosage Form",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"BB6584F6-3CF6-419D-93D6-0D9E64AF4BB1": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Route",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"61563E12-5925-4F47-A3F2-6F937720A6C7": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Route",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"F7DC86DC-EE48-4B67-8E9D-EE60A9BF6548": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Pkg. Size",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"486315D7-F487-4821-B765-8A3B7B81786D": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Pkg. Size",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"DF13CAEF-1B2E-49A3-94FC-9AC0622DD742": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedNDCPackageSizeUnits",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"377D3FA6-1CCC-406B-BB0E-9589F27AE173": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "RequestedNDCPackageSizeUnits",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"EA77AE6D-8F71-4AD5-ADF5-945E3B2ECC9F": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedNDCGPICode",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"AF94EFEA-859D-4009-861C-E625137B07A5": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "RequestedNDCGPICode",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"EF2C71AC-4D67-4DDE-9B69-E701BC4F3762": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedNDCGPIName",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"9955E583-2650-4735-A5A7-B4FA30D0B571": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "RequestedNDCGPIName",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"604B869E-5E92-49A9-B5CB-39C973EB9352": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Quantity",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"BE03615D-1CE1-45A0-AD88-365F9D5A76A3": {
+				"isRequired": true,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Quantity",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"6AF96262-B262-46FA-B268-BE8CB259FA83": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Quantity",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"CFADAD1D-F225-4BE6-9A40-499522C27342": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Quantity",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"CA7716D1-64A7-4851-AECA-CB4B2E157311": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Frequency In Days",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"F49995B5-4AEC-420C-8134-693DB10E84AE": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Frequency In Days",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"5B300A6B-ADC5-4141-BED4-20F59ABAAC1F": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"C23EF6B1-D22D-44EE-82A3-31349B8563E9": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"7777AA66-EA12-4FD3-9F39-F32F965A83DC": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Service Date Begin",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"1F933104-9BB3-41E9-90A7-DA4382DB2BE9": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Service Date End",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"7B933074-6023-4F5B-A5B5-5C15C357B622": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedHCPCSCode",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"6B88B00A-2BB4-4F08-8367-D92D8F758ED7": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"BA559CB5-6730-4E0B-8BE8-F1A162BF8886": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"E8A31459-FB25-44C8-A461-C687BB21C499": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"6718427F-4BB6-4AF5-81BF-D1FA6BD899BA": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"4688A19A-F278-41C3-ABEE-2824334C299F": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"38F4DF01-B8A4-4D1B-A2E7-B7699D2E3F89": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"BCB76E2F-11DA-4592-B1EC-B3CE642E612F": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedRegimenSource",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"83DAF014-5E7E-4B6A-AC46-52A8E863AA36": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "RequestedRegimenSource",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"BFA6F1F7-9D8B-4463-92AC-8C7D21A33749": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedRegimenCycleInstruction",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"F25D7C78-00F0-4D47-B6F4-64D3957E32A2": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "RequestedRegimenCycleInstruction",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"6F1624AB-78FB-4D0F-AD2B-C381B53B1732": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedRegimenCycleMax",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"77F6FB8D-9687-4DA4-ADC3-E00BED8E0C55": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "RequestedRegimenCycleMax",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"6C7CE2B5-24FC-430E-B1CC-51B80BC114EC": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedRegimenCycleMin",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"557ADEF4-B959-4F9D-878B-549AE24EA04E": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "RequestedRegimenCycleMin",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"7E8B9297-EFB2-4968-A9E1-96326DE94CF2": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedRegimenDrugFrequencyInDays",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"FDE8DD00-E741-4DB7-A374-03709BADD54A": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "RequestedRegimenDrugFrequencyInDays",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"467505C0-45C5-4EAC-AD2A-857F789E70FF": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "ApprovedRegimenDrugCumulativeQuantity",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"33D71562-586E-4117-A84A-34B35797C5F6": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "RequestedRegimenDrugCumulativeQuantity",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"97E79703-CC45-4C2C-930C-96F231B212AE": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedRegimenDrugCumulativeQuantityType",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"7443A452-0EC1-4EDE-87F7-35F9AC001BF3": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "RequestedRegimenDrugCumulativeQuantityType",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"311D505E-F381-4204-A50D-6174193F499F": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedRegimenDrugDosingMethodology",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"CFC769F1-5B55-4DCE-BB13-DD7B94220D11": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "RequestedRegimenDrugDosingMethodology",
+				"AccessibilityValue": "Unspecified",
+				"isInstance": false
+			},
+			"0CC6BF5F-0BC4-4DE4-AD26-CD036E31ADD4": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedRegimenDrugDoseInstruction",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"AE1B4EA6-F0C4-4A9B-A1E3-E553F7C6F551": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "RequestedRegimenDrugDoseInstruction",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"14FE0837-480C-47E1-865D-204A7C5CA24B": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedRegimenDrugDoseQuantity",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"1D3E4AF9-36C1-4088-B838-BE96948F9B11": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "RequestedRegimenDrugDoseQuantity",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"E4470706-EDA7-4A13-9DE1-D2134F474D30": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "RequestedRegimenDrugDoseUnitofMeasure",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"D6289A41-265C-4758-8BC6-0E2967EDFA72": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "RequestedRegimenCycleDependancyRelationShip",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"EE28A477-5233-4CD7-BA9C-3C4AD62A53D3": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedRegimenDrugDoseNumberofAdminstrations",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"E00A77B4-083D-41C6-B570-1E2A3346F8A8": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "RequestedRegimenDrugDoseNumberofAdminstrations",
+				"AccessibilityValue": "Visible",
+				"isInstance": false
+			},
+			"342954B9-849E-402A-9C80-DC1019011D4B": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "ApprovedRegimenCycleDependancyRelationShip",
+				"AccessibilityValue": "Hidden",
+				"isInstance": false
+			},
+			"1435C05F-43E0-45BD-8D4B-ECA2DD0233D7": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"D91485A1-C8A8-4284-BC8B-07899452C459": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"E3C5A69B-7780-4A64-B5D5-05E1E0D90BB1": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"45F199B5-5520-493A-980E-C260305716CF": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"5501AD58-81A7-46E8-AD20-DEC7BD8E1880": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"AAE93957-006C-4CEA-AA45-1F999A7BC49D": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"MemberInstance": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Visible",
+				"isInstance": true
+			},
+			"AddressPanel-0": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Visible",
+				"isInstance": true
+			},
+			"btnAddressAdd": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"MemberShipDate-0": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Visible",
+				"isInstance": true
+			},
+			"btnMembershipDatesAdd": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"4F55ABF3-A0A8-492A-9CDF-C3317357508A": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "PatientWeight",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"797A5BAB-0982-4B23-AED1-5B279A62888D": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Weight",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"C431A727-C9CC-4BC0-A0EA-6B529B03007B": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "PatientHeight",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"4A38B053-BF7E-4042-AA86-7178FAB22DED": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Height",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"B25D3522-2A53-4599-A630-3F79C61F64D9": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Secondary Phone Number",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"BF81514B-D47E-4B48-AA75-66310D417377": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Carrier",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"0208995F-CFFE-4D07-8E37-C7DF05198EE2": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Account",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"74687D3B-4342-4835-88C6-34EA7C69528C": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Group Name",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"97DB824B-6427-488E-B1D8-F730AB402683": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Body Surface Area (BSA) (m2)",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"1BB988AE-3105-4724-A980-BC4AF90EF924": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "In Network",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"3507CAA5-BD3C-446A-8ADB-875B1AC8BE04": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Rendering Fax Number",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"B8B173C5-0620-47C5-ACAF-C04F5943C18A": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Rendering Contact Name",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"59866E8B-E9FF-4F2F-BE68-F3CC80D81ED0": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Rendering Contact Phone Number",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"96BDC91B-6164-4FCF-9052-5B7D6D2EA631": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "In Network",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"A067E57E-ED04-476B-A0F6-CA6D7C8F033A": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Complete Clinical",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"E9E15770-6E96-4B78-B3E1-354594CBB636": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": "Initial Request - Change in Priority",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"C78EE29F-9137-46CB-AEF8-BAAC7E6536A6": {
+				"isRequired": true,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Do you intend to purchase this medication to administer in your office and directly bill the medication through the medical benefit?",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"BF0EEE48-310D-4AA8-9DC6-ECC3937A3162": {
+				"isRequired": true,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": "Do you intend to have a pharmacy dispense drug and bill the pharmacy benefit?",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"0D63EF20-DB6E-48E8-9F1C-03F9467390B6": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Refills",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"C8325361-E3D7-4374-B585-2B3554666C67": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Sig",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"B4ED89B4-3DE0-4689-877E-2B9958688796": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Unspecified",
+				"isInstance": true
+			},
+			"Unspecified": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Unspecified",
+				"isInstance": true
+			},
+			"Requesting": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Required",
+				"isInstance": true
+			},
+			"Submitter": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Optional",
+				"isInstance": true
+			},
+			"PayTo": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Optional",
+				"isInstance": true
+			},
+			"Ordering": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Optional",
+				"isInstance": true
+			},
+			"Referring": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Optional",
+				"isInstance": true
+			},
+			"Rendering": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Optional",
+				"isInstance": true
+			},
+			"PrimaryCare": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Optional",
+				"isInstance": true
+			},
+			"ProviderDetail-0": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Required",
+				"isInstance": true
+			},
+			"btnProviderAdd": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"B99E7A07-AB5C-4034-A40B-0C06AD6A4EA1": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "First Name",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"5D1A3B79-FEB4-466E-B9E1-91829E39EE23": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Last Name",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"BE090463-E716-488D-93D0-3235D8DCBE57": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Line 1",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"B746C74F-F1C3-4560-A23B-1A22D49C8922": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "State",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"76BCBB01-83A1-4981-9F06-55212726E980": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "ZIP Code",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"PhysicianEdit-B99E7A07-AB5C-4034-A40B-0C06AD6A4EA1": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "First Name",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"PhysicianEdit-5D1A3B79-FEB4-466E-B9E1-91829E39EE23": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Last Name",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"PhysicianEdit-3E313E9A-95CF-4F9E-A7D2-BA89A72B06C3": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Line 2",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"PhysicianEdit-2D5F6606-A83E-4FCF-BF16-01173C1C51CC": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "City",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"PhysicianEdit-BE090463-E716-488D-93D0-3235D8DCBE57": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "Line 1",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"PhysicianEdit-B746C74F-F1C3-4560-A23B-1A22D49C8922": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "State",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"PhysicianEdit-76BCBB01-83A1-4981-9F06-55212726E980": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "ZIP Code",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"PhysicianEdit-B3A5D265-A158-4E87-8E73-35052651FACA": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "NPI",
+				"AccessibilityValue": "Required",
+				"isInstance": false
+			},
+			"btnAddDiagnosis": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnAddContactAttempt": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnAddNote": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnAddDocument": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnAddGrievance": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnResendFax": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": true
+			},
+			"btnIVRAddRecord": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": "Add Record",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"RequestedDrug-0": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Required",
+				"isInstance": true
+			},
+			"ApprovedDrug-0": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Hidden",
+				"isInstance": true
+			},
+			"CoverageLine-0": {
+				"isRequired": true,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": null,
+				"AccessibilityValue": "Required",
+				"isInstance": true
+			},
+			"btnReturn": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnKeep": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnCancelExisting": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnCancelNew": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnCopy": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnGenerateLetter": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnAppeal": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": "Authorization Request is not in an appealable state.",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnModify": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": "Authorization Request is not in a modifiable state.",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnSave": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnSubmitAuthorization": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnPeerToPeer": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": "Authorization Request is not in a peer to peer state.",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnReopen": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": "Authorization Request is not in a reopen state.",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnVoid": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": true,
+				"FormattedLabel": "",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnReversal": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": "Authorization Request is not in a reversable status",
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnBack": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnReleaseForReview": {
+				"isRequired": false,
+				"isVisible": true,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			},
+			"btnEditProtocol": {
+				"isRequired": false,
+				"isVisible": false,
+				"isEditable": false,
+				"FormattedLabel": null,
+				"AccessibilityValue": null,
+				"isInstance": false
+			}
+		},
+		"fromcopy": false,
+		"success": true,
+		"AuthValidationMessages": [],
+		"ErrorMessage": null,
+		"notificationMessages": [],
+		"AdditionalConfig": {
+			"servicePeriodLengthDefault": 0,
+			"MinimumRetroDateAllowed": "5/25/2017",
+			"retroMinDays": 1000,
+			"CameFromWorkBox": true,
+			"Indications": null,
+			"ConfigValues": {
+				"IsSOC": "true",
+				"RequestedQtyField": "Required",
+				"ApprovedQtyField": "Hidden"
+			},
+			"ProviderHeaderList": {
+				"Name": 220,
+				"NPI": 75,
+				"City": 122,
+				"State": 42
+			},
+			"RelationShiptoInsuredList": [ "", "Self", "Spouse", "Child", "Employee", "Unknown", "Other", "Dependent" ],
+			"FileUploadMaxSizeBytes": 10485760,
+			"EUIAuthWorkSheetUrl": "Auth/EUIAuthWorksheet.aspx?AuthTransactionIdentifier=431478",
+			"MaximumServiceDateAllowed": "2/16/2035",
+			"MaxServiceDays": 5475,
+			"AuthRequestedDate": "2/19/2020",
+			"ServiceStartDate": null,
+			"isDrugListEffectivityTurnedOn": true,
+			"MolecularMarker": [ "BRCA1/2 Positive", "HER2 Negative", "HER2 Positive", "Hormone Receptor Negative", "Hormone Receptor Positive", "PD-L1 Expression =1%", "PIK3CA Positive", "Other" ],
+			"ApprovalRationale": [ "Approved - Modification of drug justified based on member needs", "Approved - New drug on market", "Approved - Clinical trial", "Approved - NCCN Aligned" ],
+			"TreatmentSettings": [ "Adjuvant", "Metastatic", "Neoadjuvant", "Post-neoadjuvant", "Recurrent", "Other" ],
+			"CancerStage": [
+				{
+					"label": "Stage I",
+					"value": "Stage I"
+				},
+				{
+					"label": "Stage II",
+					"value": "Stage II"
+				},
+				{
+					"label": "Stage III",
+					"value": "Stage III"
+				},
+				{
+					"label": "Stage IV",
+					"value": "Stage IV"
+				},
+				{
+					"label": "Other",
+					"value": "Other"
+				}
+			],
+			"PerformanceStatus": [
+				{
+					"label": "eCOG-0",
+					"value": "eCOG-0"
+				},
+				{
+					"label": "eCOG-1",
+					"value": "eCOG-1"
+				},
+				{
+					"label": "eCOG-2",
+					"value": "eCOG-2"
+				},
+				{
+					"label": "eCOG-3",
+					"value": "eCOG-3"
+				},
+				{
+					"label": "eCOG-4",
+					"value": "eCOG-4"
+				},
+				{
+					"label": "Other",
+					"value": "Other"
+				}
+			],
+			"RegimenCompleted": false,
+			"RegimenPA": true,
+			"ShowTestClaim": false,
+			"ShowOverrideComponent": false,
+			"ConditionalQuantity": "true",
+			"OverrideInitData": null,
+			"GoNoGo": false,
+			"AdvancedProviderSearchEnabled": false,
+			"EnableRequestDateDefault": true,
+			"EnablePriorityDefault": true,
+			"IsTherapy": false,
+			"AllowedDocumentTypeUpload": [ "tif", "tiff", "doc", "docx", "pdf", "htm", "html", "jpg", "jpeg", "g3n", "g3f", "txt", "xls", "xlsx", "bmp", "rtf", "csv", "gif" ]
+		},
+		"activityNotMatched": false,
+		"AuthChangeTrackInput": {
+			"UserAccountID": "0ba41862-ba76-4e89-97b4-dae1e602b21a",
+			"AuthorizationID": 431478,
+			"AuthLastChangeDate": "\/Date(1582176653377)\/",
+			"WorkflowStatus": "Incomplete"
+		},
+		"commonBannerData": {
+			"AuthorizationRequestIdentifier": 431478,
+			"AuthTransactionStatusDisplay": "Incomplete",
+			"BenefitTypeCodeVisible": true,
+			"authBenefitType": "Medical",
+			"BenefitTypeImageUrls": [ "M_Selected.svg", "P_Gray.svg" ],
+			"BenefitTypeCode": "Medical",
+			"UserName": "Jun Wang",
+			"WorkFlowStatus": "CVSNLX Auth Create Tech v1",
+			"showWorkflowInfo": true,
+			"AuthRequestTypeImageUrl": "rpa_icon.svg",
+			"DisplayRegimenImageUrlOnly": false,
+			"AuthRequestePAVisible": false,
+			"TransactionDisplay": "Authorization",
+			"ExceptioHandling": "DisplayFalse"
+		},
+		"commonHeaderData": {
+			"passedMemberName": "AUTCVSNLXFirstName AUTCVSNLXLastName",
+			"memberId": "AUTCVSNLX002",
+			"planName": "CVS NLX Demo",
+			"gender": "Female",
+			"dateOfBirth": "6/6/1980",
+			"lineOfBusiness": "Commercial",
+			"exceptionGroupName": "",
+			"IsManualEligibility": false
+		},
+		"MemberDetails": {
+			"MemberID": "AUTCVSNLX002",
+			"RelationshipToInsured": "Self",
+			"Plan": "CVS NLX Demo",
+			"LastName": "AUTCVSNLXLastName",
+			"FirstName": "AUTCVSNLXFirstName",
+			"MiddleInitial": "",
+			"DateOfBirth": "6/6/1980",
+			"Gender": "Female",
+			"MaritalStatus": "",
+			"SpecialHandling": null,
+			"InsuredId": "AUTCVSNLX002",
+			"InsuredFirstName": "AUTCVSNLXFirstName",
+			"InsuredLastName": "AUTCVSNLXLastName",
+			"Allergies": "",
+			"InNetwork": "",
+			"PhoneNumber": null,
+			"PreferredLanguage": null
+		},
+		"MemberAddressDetails": [
+			{
+				"InstanceId": "AddressPanel-0",
+				"canRemove": false,
+				"AddressType": "Primary",
+				"AddressLine1": "8300 Norman Center Drive Suite 800",
+				"AddressLine2": "",
+				"City": "Bloomington",
+				"State": "MN",
+				"Zip": "55437"
+			}
+		],
+		"MembershipDates": [
+			{
+				"CanRemove": false,
+				"InstanceId": "MemberShipDate-0",
+				"GroupNumber": "12345",
+				"EffectiveDate": "1/1/2017",
+				"EndDate": "1/1/2099",
+				"LineOfBusiness": "Commercial",
+				"ExceptionGroupName": ""
+			}
+		],
+		"providerList": [
+			{
+				"InstanceId": "ProviderDetail-0",
+				"providerRole": "Requesting",
+				"Access": "Required",
+				"PlanProviderType": null,
+				"NPI": "1093886699",
+				"MDOfficeContactEmail": null,
+				"MDOfficeContactFaxNumber": null,
+				"MDOfficeContactName": null,
+				"MDOfficeContactPhoneNumber": null,
+				"Name": "PERLAS, DANILO SANCHEZ",
+				"NameToDisplay": null,
+				"Key": "1093886699",
+				"RemoveAllowed": false,
+				"InCmsRegistryInd": true,
+				"providerSpecialty": "",
+				"Address": "302 CALIFORNIA AVE SUITE 208 WAHIAWA, HI 96786",
+				"AddressLine1": null,
+				"AddressLine2": null,
+				"TaxId": "",
+				"ExternalProviderId": null,
+				"CityName": null,
+				"StateCode": null,
+				"PINId": null,
+				"ContactFirstName": null,
+				"ContactLastName": null,
+				"ProviderEPDB": null,
+				"ProviderLocationNo": null,
+				"ProviderPhone": null,
+				"ProviderFax": null,
+				"ProviderNetworkName": null,
+				"ProviderStartDate": null,
+				"ProviderEndDate": null,
+				"ZipCode": null,
+				"physicianDetail": null
+			}
+		],
+		"providerRoles": [
+			{
+				"access": "Required",
+				"role": "Requesting",
+				"CanCreateCustomPhysician": false
+			},
+			{
+				"access": "Optional",
+				"role": "Submitter",
+				"CanCreateCustomPhysician": false
+			},
+			{
+				"access": "Optional",
+				"role": "PayTo",
+				"CanCreateCustomPhysician": false
+			},
+			{
+				"access": "Optional",
+				"role": "Ordering",
+				"CanCreateCustomPhysician": false
+			},
+			{
+				"access": "Optional",
+				"role": "Referring",
+				"CanCreateCustomPhysician": false
+			},
+			{
+				"access": "Optional",
+				"role": "Rendering",
+				"CanCreateCustomPhysician": false
+			},
+			{
+				"access": "Optional",
+				"role": "PrimaryCare",
+				"CanCreateCustomPhysician": false
+			}
+		],
+		"diagnosisList": [
+			{
+				"Access": "Required",
+				"FormattedCode": "C50.011",
+				"DiagnosisDescription": "Malignant neoplasm of nipple and areola, right female breast (ICD-10)",
+				"DiagnosisTypeCode": "ABK",
+				"DiagnosisTypeCodeDisplay": "Primary",
+				"DiagnosisPosition": 1,
+				"isRemovable": false
+			}
+		],
+		"diseaseDetails": [
+			{
+				"diagnosis": null,
+				"DiseaseDescription": null,
+				"MolecularMarker": null,
+				"PerformanceStatus": null,
+				"Stage": null,
+				"TreamentSetting": null,
+				"PerformanceStatusDescription": null,
+				"StageDescription": null
+			}
+		],
+		"AuthPriorityList": [ "Normal", "Urgent" ],
+		"AuthRequesterList": [ "Member", "Provider", "AOR" ],
+		"DecisionActionList": [],
+		"DecisionActionListDetails": null,
+		"OtherActionList": [],
+		"OtherActionDetails": null,
+		"authorizationDetails": {
+			"AuthReceivedDate": "2/19/2020 12:00:00 AM",
+			"AuthStartDate": "2/13/2020",
+			"AuthEndDate": "2/13/2020",
+			"AuthPriority": "Normal",
+			"Requester": "Unspecified",
+			"AuthDecisionDate": null,
+			"BenefitType": "Medical",
+			"AuthorizationDateType": "Retro",
+			"PrimaryPlanName": null,
+			"PrimaryInsurancePhoneNumber": null,
+			"PrimaryCardholderName": null,
+			"PrimaryGroupName": null,
+			"PrimaryGroupNumber": null,
+			"SecondaryPlanName": null,
+			"SecondaryInsurancePhoneNumber": null,
+			"SecondaryCardholderName": null,
+			"SecondaryGroupName": null,
+			"SecondaryGroupNumber": null,
+			"SecondaryMemberID": null,
+			"RequestType": "Regimen",
+			"AuthOrigin": "Online"
+		},
+		"notesAndDcocumentsDetails": {
+			"IsNotesPanelReadOnly": false,
+			"IsNotesPanelVisible": true,
+			"IsNoteViewPrivateAuthorized": true,
+			"IsNoteAddPrivateAuthorized": true,
+			"IsDocumentViewPrivateAuthorized": true,
+			"IsAuthDocumentAddPrivate": true,
+			"IsAuthDocUploadPrivateDefault": true,
+			"IsNoteEditAuthorized": false,
+			"IsApproveNoteEditAuthorized": false,
+			"IsInterventionNoteEditAuthorized": false,
+			"IsGrievanceViewAuthorized": true,
+			"ShowPrivateDocuments": true,
+			"MaxNotesPermitted": 50,
+			"MaxDocumentsPermitted": 40,
+			"AllowedFileTypes": [ "tif", "tiff", "doc", "docx", "pdf", "htm", "html", "jpg", "jpeg", "g3n", "g3f", "txt", "xls", "xlsx", "bmp", "rtf", "csv", "gif" ],
+			"DocumentRemoveAccess": 2,
+			"DocumentEditAccess": 2,
+			"FaxDocumentResendAccess": 0,
+			"LetterResendAccess": 0,
+			"LetterRefreshAccess": 1,
+			"NoteTypes": [
+				{
+					"id": "0",
+					"val": "General"
+				},
+				{
+					"id": "1",
+					"val": "ContactAttempt"
+				},
+				{
+					"id": "2",
+					"val": "DenialReason"
+				},
+				{
+					"id": "3",
+					"val": "OverturnReason"
+				},
+				{
+					"id": "4",
+					"val": "AppealDenialReason"
+				},
+				{
+					"id": "5",
+					"val": "InterventionReason"
+				},
+				{
+					"id": "6",
+					"val": "ApprovalReason"
+				},
+				{
+					"id": "7",
+					"val": "PendReason"
+				},
+				{
+					"id": "8",
+					"val": "DismissalReason"
+				},
+				{
+					"id": "9",
+					"val": "WithdrawnReason"
+				},
+				{
+					"id": "10",
+					"val": "ReversalReason"
+				},
+				{
+					"id": "11",
+					"val": "GrievanceInquiry"
+				}
+			],
+			"NoteDetails": [],
+			"DocumentDetails": null,
+			"DocumentDetailsList": [
+				{
+					"DocDetailObj": {
+						"Route": null,
+						"ChangeLastDate": "\/Date(-62135575200000)\/",
+						"DocumentTypeToolTip": "Document",
+						"DocumentType": "",
+						"DocumentDate": "2/14/2020",
+						"DocumentDateTooltip": "2/14/2020 8:38:48 AM",
+						"DocumentAttachedBy": "SYSTEM",
+						"DocumentLinePointer": "Line 1",
+						"Status": null,
+						"DocumentTitle": "NCCNTemplate-BRS34",
+						"RemoveDocAccess": "Visible",
+						"EditDocAccess": "Visible",
+						"RefreshLetterAccess": "Disabled",
+						"FaxResendAccess": "Hidden",
+						"ResendLetterAccess": "Hidden",
+						"LetterIdentifier": 0,
+						"DocumentIdentifier": 678312,
+						"FaxNumber": null,
+						"showPrivateDocumentIcon": false
+					},
+					"AttemptDetails": [
+						{
+							"Attempt": "1",
+							"DateTime": "2/14/2020 8:38:48 AM",
+							"FaxNumber": "",
+							"Status": null
+						}
+					]
+				},
+				{
+					"DocDetailObj": {
+						"Route": null,
+						"ChangeLastDate": "\/Date(-62135575200000)\/",
+						"DocumentTypeToolTip": "Document",
+						"DocumentType": "",
+						"DocumentDate": "2/13/2020",
+						"DocumentDateTooltip": "2/13/2020 8:47:16 PM",
+						"DocumentAttachedBy": "SYSTEM",
+						"DocumentLinePointer": "Line 1",
+						"Status": null,
+						"DocumentTitle": "NCCNTemplate-BRS141",
+						"RemoveDocAccess": "Visible",
+						"EditDocAccess": "Visible",
+						"RefreshLetterAccess": "Disabled",
+						"FaxResendAccess": "Hidden",
+						"ResendLetterAccess": "Hidden",
+						"LetterIdentifier": 0,
+						"DocumentIdentifier": 678141,
+						"FaxNumber": null,
+						"showPrivateDocumentIcon": false
+					},
+					"AttemptDetails": [
+						{
+							"Attempt": "1",
+							"DateTime": "2/13/2020 8:47:16 PM",
+							"FaxNumber": "",
+							"Status": null
+						}
+					]
+				}
+			]
+		},
+		"ivrPanelDetail": {
+			"IsIVRPanelVisible": false,
+			"IsIVRPanelReadonly": false,
+			"MaxIVRRecords": 50,
+			"IsAuthIvrEditAllowed": true,
+			"IsAuthIvrViewAllowed": false,
+			"callResultLists": [
+				{
+					"Value": 1,
+					"Label": "ANSWERED_AND_HUNG_UP"
+				},
+				{
+					"Value": 2,
+					"Label": "PARTIAL"
+				},
+				{
+					"Value": 3,
+					"Label": "CONFIRMED"
+				},
+				{
+					"Value": 4,
+					"Label": "FULL"
+				},
+				{
+					"Value": 5,
+					"Label": "MACHINE_PARTIAL"
+				},
+				{
+					"Value": 6,
+					"Label": "MACHINE_FULL"
+				},
+				{
+					"Value": 7,
+					"Label": "NO_ANSWER"
+				},
+				{
+					"Value": 8,
+					"Label": "NETWORK_BUSY"
+				},
+				{
+					"Value": 9,
+					"Label": "MODEM"
+				},
+				{
+					"Value": 10,
+					"Label": "STATION_BUSY"
+				},
+				{
+					"Value": 11,
+					"Label": "OTHER"
+				},
+				{
+					"Value": 12,
+					"Label": "NETWORK_MESSAGE"
+				},
+				{
+					"Value": 13,
+					"Label": "BAD_NUMBER"
+				},
+				{
+					"Value": 14,
+					"Label": "DELIVERED"
+				},
+				{
+					"Value": 15,
+					"Label": "WRONG_NUMBER"
+				}
+			],
+			"determinationTypes": [
+				{
+					"Value": 1,
+					"Label": "Authorization"
+				},
+				{
+					"Value": 2,
+					"Label": "Pathway"
+				},
+				{
+					"Value": 3,
+					"Label": "LockIn"
+				},
+				{
+					"Value": 4,
+					"Label": "Modification"
+				},
+				{
+					"Value": 5,
+					"Label": "Appeal"
+				},
+				{
+					"Value": 6,
+					"Label": "ClinicalOverride"
+				},
+				{
+					"Value": 7,
+					"Label": "PeerToPeer"
+				},
+				{
+					"Value": 8,
+					"Label": "ReOpen"
+				}
+			],
+			"IVRDetails": null
+		},
+		"authLineList": [
+			{
+				"LineNumber": 1,
+				"placeofserviceList": [
+					{
+						"label": "Please select an option",
+						"value": "0"
+					},
+					{
+						"label": "Pharmacy",
+						"value": "1"
+					},
+					{
+						"label": "Home",
+						"value": "10"
+					},
+					{
+						"label": "Off Campus Outpatient Hospital",
+						"value": "17"
+					},
+					{
+						"label": "Inpatient Hospital",
+						"value": "20"
+					},
+					{
+						"label": "Ambulatory Surgical",
+						"value": "22"
+					},
+					{
+						"label": "On Campus Outpatient Hospital",
+						"value": "48"
+					},
+					{
+						"label": "Office",
+						"value": "9"
+					}
+				],
+				"placeofdispenseList": null,
+				"PARequired": "Enable",
+				"LineStatus": "Status:  Incomplete",
+				"LineStatusVisible": true,
+				"ServiceStartDate": "2/13/2020",
+				"ServiceEndDate": "2/13/2020",
+				"ResponseDescription": "",
+				"ResponseDescriptionVisible": false,
+				"CoverageRequestStatus": "Incomplete",
+				"PlaceOfService": "20",
+				"PlaceOfDispense": null,
+				"approveVisible": false,
+				"UnitPriceProvider": "",
+				"UnitPricePayer": "",
+				"diagnosisFor": [
+					{
+						"DiagnosisPosition": 1,
+						"FormattedCode": "C50.011",
+						"DiagnosisDesription": "Malignant neoplasm of nipple and areola, right female breast (ICD-10)",
+						"DiseaseDesription": null
+					}
+				],
+				"RequestedHCPCSCode": null,
+				"RequestedHCPCSName": null,
+				"requestedDrugIdentifications": [
+					{
+						"Index": 0,
+						"Identifier": "70d03e70-5e37-4ea1-82ba-48531da7c02c",
+						"BenefitTypeCode": "Medical",
+						"InitialNdcCode": null,
+						"HcpcsCode": "J9306",
+						"HcpcsCodeTooltip": "",
+						"Code": "50242014501",
+						"DrugName": "Perjeta",
+						"GenericName": null,
+						"StrengthMeasure": "420 MG/14ML",
+						"DosageForm": "SOLN",
+						"RouteOfAdministrationCode": "IV",
+						"PackageSizeMeasure": "14",
+						"PackageSizeUnitsCode": "ML",
+						"GPICode": "21353054002020",
+						"GPIName": "Pertuzumab",
+						"NDCQuantity": "",
+						"MaxDailyQuantity": "",
+						"FreqInDays": "",
+						"HCPCSQuantity": "",
+						"BenefitTypeHTML": "\u003csvg version=\"1.1\" class=\"svg_Size\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 17.1 17.1\" style=\"enable-background:new 0 0 17.1 17.1;\" xml:space=\"preserve\"\u003e\r\n\u003cstyle type=\"text/css\"\u003e\r\n\u003c![CDATA[\r\n\t.st0{fill:#8A8C8E;}\r\n\t.st1{fill:#FFFFFF;}\r\n]]\u003e\r\n\u003c/style\u003e\r\n\u003cg\u003e\r\n\t\u003ccircle class=\"med_Green\" cx=\"8.5\" cy=\"8.5\" r=\"8.5\" /\u003e\r\n\t\u003cg\u003e\r\n\t\t\u003cpath class=\"st1\" d=\"M3.4,3.5h3.8l1.5,5.7l1.4-5.7h3.8v9.3h-2.4V5.7l-1.8,7.1H7.5L5.7,5.7v7.1H3.4V3.5z\" /\u003e\r\n\t\u003c/g\u003e\r\n\u003c/g\u003e\r\n\u003c/svg\u003e\u003csvg version=\"1.1\" class=\"svg_Size\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"17.1px\" height=\"17.1px\" viewBox=\"0 0 17.1 17.1\" style=\"enable-background:new 0 0 17.1 17.1;\" xml:space=\"preserve\"\u003e\r\n\u003cstyle type=\"text/css\"\u003e\r\n\u003c![CDATA[\r\n\t.st0{fill:#8A8C8E;}\r\n\t.st1{fill:#FFFFFF;}\r\n]]\u003e\r\n\u003c/style\u003e\r\n\u003cg\u003e\r\n\t\u003ccircle class=\"pharma_Gray\" cx=\"8.5\" cy=\"8.5\" r=\"8.5\" /\u003e\r\n\t\u003cg\u003e\r\n\t\t\u003cpath class=\"st1\" d=\"M5.6,3.5h4.8c1,0,1.8,0.2,2.3,0.7c0.5,0.5,0.8,1.2,0.8,2.1c0,0.9-0.3,1.7-0.8,2.2c-0.6,0.5-1.4,0.8-2.6,0.8    H8.5v3.5H5.6V3.5z M8.5,7.5h0.7c0.6,0,0.9-0.1,1.2-0.3c0.2-0.2,0.3-0.4,0.3-0.7c0-0.3-0.1-0.5-0.3-0.7c-0.2-0.2-0.6-0.3-1.1-0.3    H8.5V7.5z\" /\u003e\r\n\t\u003c/g\u003e\r\n\u003c/g\u003e\r\n\u003c/svg\u003e",
+						"InstanceId": "RequestedDrug-0",
+						"DosingMethodology": 3
+					}
+				],
+				"approvedDrugIdentifications": [
+					{
+						"Index": 0,
+						"Identifier": "70d03e70-5e37-4ea1-82ba-48531da7c02c",
+						"BenefitTypeCode": "Medical",
+						"InitialNdcCode": null,
+						"HcpcsCode": "J9306",
+						"HcpcsCodeTooltip": "",
+						"Code": "50242014501",
+						"DrugName": "Perjeta",
+						"GenericName": null,
+						"StrengthMeasure": "420 MG/14ML",
+						"DosageForm": "SOLN",
+						"RouteOfAdministrationCode": "IV",
+						"PackageSizeMeasure": "14",
+						"PackageSizeUnitsCode": "ML",
+						"GPICode": "21353054002020",
+						"GPIName": "Pertuzumab",
+						"NDCQuantity": "0",
+						"MaxDailyQuantity": "0",
+						"FreqInDays": "0",
+						"HCPCSQuantity": "",
+						"BenefitTypeHTML": "\u003csvg version=\"1.1\" class=\"svg_Size\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 17.1 17.1\" style=\"enable-background:new 0 0 17.1 17.1;\" xml:space=\"preserve\"\u003e\r\n\u003cstyle type=\"text/css\"\u003e\r\n\u003c![CDATA[\r\n\t.st0{fill:#8A8C8E;}\r\n\t.st1{fill:#FFFFFF;}\r\n]]\u003e\r\n\u003c/style\u003e\r\n\u003cg\u003e\r\n\t\u003ccircle class=\"med_Green\" cx=\"8.5\" cy=\"8.5\" r=\"8.5\" /\u003e\r\n\t\u003cg\u003e\r\n\t\t\u003cpath class=\"st1\" d=\"M3.4,3.5h3.8l1.5,5.7l1.4-5.7h3.8v9.3h-2.4V5.7l-1.8,7.1H7.5L5.7,5.7v7.1H3.4V3.5z\" /\u003e\r\n\t\u003c/g\u003e\r\n\u003c/g\u003e\r\n\u003c/svg\u003e\u003csvg version=\"1.1\" class=\"svg_Size\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"17.1px\" height=\"17.1px\" viewBox=\"0 0 17.1 17.1\" style=\"enable-background:new 0 0 17.1 17.1;\" xml:space=\"preserve\"\u003e\r\n\u003cstyle type=\"text/css\"\u003e\r\n\u003c![CDATA[\r\n\t.st0{fill:#8A8C8E;}\r\n\t.st1{fill:#FFFFFF;}\r\n]]\u003e\r\n\u003c/style\u003e\r\n\u003cg\u003e\r\n\t\u003ccircle class=\"pharma_Gray\" cx=\"8.5\" cy=\"8.5\" r=\"8.5\" /\u003e\r\n\t\u003cg\u003e\r\n\t\t\u003cpath class=\"st1\" d=\"M5.6,3.5h4.8c1,0,1.8,0.2,2.3,0.7c0.5,0.5,0.8,1.2,0.8,2.1c0,0.9-0.3,1.7-0.8,2.2c-0.6,0.5-1.4,0.8-2.6,0.8    H8.5v3.5H5.6V3.5z M8.5,7.5h0.7c0.6,0,0.9-0.1,1.2-0.3c0.2-0.2,0.3-0.4,0.3-0.7c0-0.3-0.1-0.5-0.3-0.7c-0.2-0.2-0.6-0.3-1.1-0.3    H8.5V7.5z\" /\u003e\r\n\t\u003c/g\u003e\r\n\u003c/g\u003e\r\n\u003c/svg\u003e",
+						"InstanceId": "ApprovedDrug-0",
+						"DosingMethodology": 0
+					}
+				],
+				"ProtocolHeader": null,
+				"ProtocolHeaderFinal": null,
+				"Protocols": null,
+				"ProtocolsFinal": null,
+				"ApprovedServiceStartDate": "2/13/2020",
+				"ApprovedServiceEndDate": "2/13/2020",
+				"ApprovedHCPCSCode": null,
+				"ApprovedHCPCSName": null,
+				"Mod1": "",
+				"Mod2": "",
+				"Mod3": "",
+				"Mod4": "",
+				"ApprovedPOS": "99",
+				"CoverageRequestApprovedPOS": "Other",
+				"ApprovedPlaceOfServiceList": [
+					{
+						"label": "Home/Office",
+						"value": "11"
+					},
+					{
+						"label": "Outpatient Facility/Office/Home",
+						"value": "22"
+					},
+					{
+						"label": "N/A",
+						"value": "99"
+					}
+				],
+				"InstanceId": "CoverageLine-0"
+			}
+		],
+		"decisionPanelDetail": {
+			"IsDecisionPanelVisible": true,
+			"decisionDetails": [
+				{
+					"DecisionName": "Original",
+					"Priority": "Normal",
+					"DecisionAction": "",
+					"OtherAction": "",
+					"RequestedDate": "2/19/2020 12:00:00 AM",
+					"DecisionDate": "",
+					"FinalMemberOralNotification": "",
+					"FinalMemberWrittenNotification": "",
+					"FinalProviderOralNotification": "",
+					"EnhancedReview": "NO",
+					"CoverageRequestedStatus": "",
+					"Attempt": "0",
+					"TemplatePlan": null,
+					"Rationale": "",
+					"acPriority": {
+						"isRequired": true,
+						"isVisible": true,
+						"isEditable": true,
+						"FormattedLabel": null,
+						"AccessibilityValue": "Required",
+						"isInstance": false
+					},
+					"acDecisionAction": {
+						"isRequired": false,
+						"isVisible": false,
+						"isEditable": false,
+						"FormattedLabel": null,
+						"AccessibilityValue": null,
+						"isInstance": false
+					},
+					"acOtherAction": {
+						"isRequired": false,
+						"isVisible": false,
+						"isEditable": false,
+						"FormattedLabel": null,
+						"AccessibilityValue": null,
+						"isInstance": false
+					},
+					"acEnhancedReview": {
+						"isRequired": false,
+						"isVisible": false,
+						"isEditable": false,
+						"FormattedLabel": null,
+						"AccessibilityValue": "Hidden",
+						"isInstance": false
+					},
+					"acRequestDate": {
+						"isRequired": true,
+						"isVisible": true,
+						"isEditable": true,
+						"FormattedLabel": null,
+						"AccessibilityValue": "Required",
+						"isInstance": false
+					},
+					"acDecisionDate": {
+						"isRequired": false,
+						"isVisible": true,
+						"isEditable": false,
+						"FormattedLabel": null,
+						"AccessibilityValue": "Visible",
+						"isInstance": false
+					},
+					"acFinalWritten": {
+						"isRequired": false,
+						"isVisible": false,
+						"isEditable": false,
+						"FormattedLabel": null,
+						"AccessibilityValue": "Optional",
+						"isInstance": false
+					},
+					"acFinalOral": {
+						"isRequired": false,
+						"isVisible": false,
+						"isEditable": false,
+						"FormattedLabel": null,
+						"AccessibilityValue": "Optional",
+						"isInstance": false
+					},
+					"acRationale": null,
+					"acProviderOral": {
+						"isRequired": false,
+						"isVisible": true,
+						"isEditable": false,
+						"FormattedLabel": null,
+						"AccessibilityValue": null,
+						"isInstance": false
+					}
+				}
+			]
+		},
+		"rxclaimPanelDetail": {
+			"IsRxClaimPanelVisible": false,
+			"rxclaimDetails": null
+		},
+		"authLineRegmenList": [],
+		"authLineTherapyList": [],
+		"InterventionTherapy": {
+			"DosingWeightApplicable": null,
+			"CidpDosingProtocolApplicable": null,
+			"OtherdosingIntervention": null,
+			"ProviderAgreement": null,
+			"DosingWeight": null,
+			"ApprovedIntervention": null,
+			"HasAnySystematicDosing": null,
+			"AdjusteddosingIntervention": null,
+			"IsMaintenanceDosing": null,
+			"RequestedCycle": null,
+			"RecommendedCycle": null,
+			"AlternativeCycle": null,
+			"AdjustedCycle": null
+		},
+		"authRegimenTransactionDetails": {
+			"AuthTransactionIdentifier": 0,
+			"FDADiseaseIndication": null,
+			"Histology": null,
+			"NCCNRecommendedUse": null,
+			"NCCNCategory": null,
+			"Rating": null,
+			"DisplayRating": false
+		},
+		"workflowButtonDetails": [
+			{
+				"ID": "btnwfProviderAction",
+				"ButtonText": "PROVIDER ACTION",
+				"CauseValidation": true,
+				"onClick": "{\"ActionType\":3,\"NoteType\":1,\"DetailProxyID\":\"DetailProxy.ClientID\",\"AjaxPostbackID\":\"AjaxPostback.ClientID\",\"AuthRequestIdentifier\":431478,\"ActivityRoleActionIdentifier\":12065,\"ActionName\":\"Provider Action\",\"ActivityIdentifier\":\"1a50b9f9-a7f8-4ce6-ba45-8ab2604819aa\",\"ActivitySeqNbr\":1,\"ActivityTargetActionIdentifier\":-2147483648,\"UserIdToAssignTo\":null,\"SaveBeforeAction\":false,\"Status\":0,\"StatusMessage\":null,\"LastUpdateDateTime\":null,\"AssignToEmail\":null}",
+				"Visible": false
+			},
+			{
+				"ID": "btnwfPAInquiryClosed",
+				"ButtonText": "PA INQUIRY CLOSED",
+				"CauseValidation": true,
+				"onClick": "{\"ActionType\":3,\"NoteType\":2,\"DetailProxyID\":\"DetailProxy.ClientID\",\"AjaxPostbackID\":\"AjaxPostback.ClientID\",\"AuthRequestIdentifier\":431478,\"ActivityRoleActionIdentifier\":12066,\"ActionName\":\"PA Inquiry Closed\",\"ActivityIdentifier\":\"1a50b9f9-a7f8-4ce6-ba45-8ab2604819aa\",\"ActivitySeqNbr\":1,\"ActivityTargetActionIdentifier\":-2147483648,\"UserIdToAssignTo\":null,\"SaveBeforeAction\":false,\"Status\":0,\"StatusMessage\":null,\"LastUpdateDateTime\":null,\"AssignToEmail\":null}",
+				"Visible": false
+			},
+			{
+				"ID": "btnwfDismissed",
+				"ButtonText": "DISMISSED",
+				"CauseValidation": true,
+				"onClick": "{\"ActionType\":3,\"NoteType\":8,\"DetailProxyID\":\"DetailProxy.ClientID\",\"AjaxPostbackID\":\"AjaxPostback.ClientID\",\"AuthRequestIdentifier\":431478,\"ActivityRoleActionIdentifier\":12067,\"ActionName\":\"Dismissed\",\"ActivityIdentifier\":\"1a50b9f9-a7f8-4ce6-ba45-8ab2604819aa\",\"ActivitySeqNbr\":1,\"ActivityTargetActionIdentifier\":-2147483648,\"UserIdToAssignTo\":null,\"SaveBeforeAction\":false,\"Status\":0,\"StatusMessage\":null,\"LastUpdateDateTime\":null,\"AssignToEmail\":null}",
+				"Visible": false
+			},
+			{
+				"ID": "btnwfWithdrawn",
+				"ButtonText": "WITHDRAWN",
+				"CauseValidation": true,
+				"onClick": "{\"ActionType\":3,\"NoteType\":9,\"DetailProxyID\":\"DetailProxy.ClientID\",\"AjaxPostbackID\":\"AjaxPostback.ClientID\",\"AuthRequestIdentifier\":431478,\"ActivityRoleActionIdentifier\":12068,\"ActionName\":\"Withdrawn\",\"ActivityIdentifier\":\"1a50b9f9-a7f8-4ce6-ba45-8ab2604819aa\",\"ActivitySeqNbr\":1,\"ActivityTargetActionIdentifier\":-2147483648,\"UserIdToAssignTo\":null,\"SaveBeforeAction\":false,\"Status\":0,\"StatusMessage\":null,\"LastUpdateDateTime\":null,\"AssignToEmail\":null}",
+				"Visible": false
+			},
+			{
+				"ID": "btnwfFaxPAForm",
+				"ButtonText": "FAX PA FORM",
+				"CauseValidation": true,
+				"onClick": "{\"ActionType\":5,\"NoteType\":0,\"DetailProxyID\":\"DetailProxy.ClientID\",\"AjaxPostbackID\":\"AjaxPostback.ClientID\",\"AuthRequestIdentifier\":431478,\"ActivityRoleActionIdentifier\":12069,\"ActionName\":\"Fax PA Form\",\"ActivityIdentifier\":\"1a50b9f9-a7f8-4ce6-ba45-8ab2604819aa\",\"ActivitySeqNbr\":1,\"ActivityTargetActionIdentifier\":-2147483648,\"UserIdToAssignTo\":null,\"SaveBeforeAction\":false,\"Status\":0,\"StatusMessage\":null,\"LastUpdateDateTime\":null,\"AssignToEmail\":null}",
+				"Visible": false
+			},
+			{
+				"ID": "btnwfAdminDeny",
+				"ButtonText": "ADMIN DENY",
+				"CauseValidation": true,
+				"onClick": "{\"ActionType\":5,\"NoteType\":0,\"DetailProxyID\":\"DetailProxy.ClientID\",\"AjaxPostbackID\":\"AjaxPostback.ClientID\",\"AuthRequestIdentifier\":431478,\"ActivityRoleActionIdentifier\":12070,\"ActionName\":\"Admin Deny\",\"ActivityIdentifier\":\"1a50b9f9-a7f8-4ce6-ba45-8ab2604819aa\",\"ActivitySeqNbr\":1,\"ActivityTargetActionIdentifier\":-2147483648,\"UserIdToAssignTo\":null,\"SaveBeforeAction\":false,\"Status\":0,\"StatusMessage\":null,\"LastUpdateDateTime\":null,\"AssignToEmail\":null}",
+				"Visible": false
+			}
+		],
+		"UDFFields": {
+			"Patient Detail": [
+				{
+					"FieldId": "4F55ABF3-A0A8-492A-9CDF-C3317357508A",
+					"Name": "PatientWeight",
+					"row": 1,
+					"col": 2,
+					"LabelText": "PatientWeight",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Number",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "82" ],
+					"DataSource": null,
+					"privilege": "Optional",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": "###.##",
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "797A5BAB-0982-4B23-AED1-5B279A62888D",
+					"Name": "PatientWeightUnit",
+					"row": 1,
+					"col": 1,
+					"LabelText": "Weight",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Radio",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "Yes" ],
+					"DataSource": [
+						{
+							"Active": true,
+							"Identifier": "9d280201-e83d-4400-82c5-e72bfe2cf43a",
+							"KeyWordValue": "Yes",
+							"Label": "Yes",
+							"Score": 0,
+							"Value": "Yes"
+						},
+						{
+							"Active": true,
+							"Identifier": "3520b9a4-e7f1-4c30-b95a-f1c3591d82ed",
+							"KeyWordValue": "No",
+							"Label": "No",
+							"Score": 0,
+							"Value": "No"
+						}
+					],
+					"privilege": "Optional",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": "",
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "C431A727-C9CC-4BC0-A0EA-6B529B03007B",
+					"Name": "PatientHeight",
+					"row": 2,
+					"col": 2,
+					"LabelText": "PatientHeight",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Number",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "195" ],
+					"DataSource": null,
+					"privilege": "Optional",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": "###.##",
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "4A38B053-BF7E-4042-AA86-7178FAB22DED",
+					"Name": "PatientHeightUnit",
+					"row": 2,
+					"col": 1,
+					"LabelText": "Height",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Radio",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "Yes" ],
+					"DataSource": [
+						{
+							"Active": true,
+							"Identifier": "60320df3-23c9-4129-ab30-5fcfc4b26a25",
+							"KeyWordValue": "Yes",
+							"Label": "Yes",
+							"Score": 0,
+							"Value": "Yes"
+						},
+						{
+							"Active": true,
+							"Identifier": "9bb2c413-ae72-433b-913a-b2cf7f1c36d5",
+							"KeyWordValue": "No",
+							"Label": "No",
+							"Score": 0,
+							"Value": "No"
+						}
+					],
+					"privilege": "Optional",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": "",
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "38ED1238-DDD5-4FDF-BE1B-2A5E14AEAD9A",
+					"Name": "MemberPreferredLanguage",
+					"row": 3,
+					"col": 2,
+					"LabelText": "Preferred Language",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.List",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "English" ],
+					"DataSource": [
+						{
+							"Active": true,
+							"Identifier": "d9168eef-7410-464e-91d6-9ee6a8ff1c81",
+							"KeyWordValue": "Braille.English",
+							"Label": "Braille (English)",
+							"Score": 0,
+							"Value": "Braille.English"
+						},
+						{
+							"Active": true,
+							"Identifier": "076333b2-36a7-49e8-bb41-f42445b4b899",
+							"KeyWordValue": "English",
+							"Label": "English",
+							"Score": 0,
+							"Value": "English"
+						},
+						{
+							"Active": true,
+							"Identifier": "14cacf0f-e82a-4ad2-ab55-fd69000872b3",
+							"KeyWordValue": "Spanish",
+							"Label": "Spanish",
+							"Score": 0,
+							"Value": "Spanish"
+						}
+					],
+					"privilege": "Optional",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": "English",
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "B25D3522-2A53-4599-A630-3F79C61F64D9",
+					"Name": "MemberSecondaryPhoneNumber",
+					"row": 4,
+					"col": 2,
+					"LabelText": "Secondary Phone Number",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.PhoneNumber",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "__________" ],
+					"DataSource": null,
+					"privilege": "Optional",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "7AEDFBEA-9AE2-4349-BD95-E07BA346F62D",
+					"Name": "MemberPhoneNumber",
+					"row": 5,
+					"col": 2,
+					"LabelText": "Phone",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.PhoneNumber",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": true,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "1111111111" ],
+					"DataSource": null,
+					"privilege": "Required",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "BF81514B-D47E-4B48-AA75-66310D417377",
+					"Name": "Carrier",
+					"row": 3,
+					"col": 1,
+					"LabelText": "Carrier",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Text",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": true,
+					"isEditable": false,
+					"ToolTip": "",
+					"StringValues": [ "5049" ],
+					"DataSource": null,
+					"privilege": "Visible",
+					"NoOfLines": 1,
+					"MaxLength": 50,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "0208995F-CFFE-4D07-8E37-C7DF05198EE2",
+					"Name": "Account",
+					"row": 4,
+					"col": 1,
+					"LabelText": "Account",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Text",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": true,
+					"isEditable": false,
+					"ToolTip": "",
+					"StringValues": [ "S123" ],
+					"DataSource": null,
+					"privilege": "Visible",
+					"NoOfLines": 1,
+					"MaxLength": 50,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "74687D3B-4342-4835-88C6-34EA7C69528C",
+					"Name": "GroupName",
+					"row": 5,
+					"col": 1,
+					"LabelText": "Group Name",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Text",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": true,
+					"isEditable": false,
+					"ToolTip": "",
+					"StringValues": [ "22221234501" ],
+					"DataSource": null,
+					"privilege": "Visible",
+					"NoOfLines": 1,
+					"MaxLength": 50,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "97DB824B-6427-488E-B1D8-F730AB402683",
+					"Name": "PatientBSA",
+					"row": 1,
+					"col": 3,
+					"LabelText": "Body Surface Area (BSA) (m2)",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Number",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": true,
+					"isEditable": false,
+					"ToolTip": "",
+					"StringValues": [ "2.11" ],
+					"DataSource": null,
+					"privilege": "Visible",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": "###.##",
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				}
+			],
+			"Membership Information": [],
+			"Provider Detail": [
+				{
+					"FieldId": "2BF5FD7B-B2B5-445D-8EE5-D9F598DDEE0F",
+					"Name": "OfficeContactFaxNumber",
+					"row": 1,
+					"col": 3,
+					"LabelText": "MD Office Contact Fax Number",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.PhoneNumber",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": true,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "1111111111" ],
+					"DataSource": null,
+					"privilege": "Required",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "C53F310F-E45D-4F49-9740-EA4E56A2D0DE",
+					"Name": "OfficeContactName",
+					"row": 1,
+					"col": 1,
+					"LabelText": "MD Office Contact Name",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Text",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": true,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "Requesting Provider " ],
+					"DataSource": null,
+					"privilege": "Required",
+					"NoOfLines": 1,
+					"MaxLength": 20,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "09076F53-E503-4329-9815-CE2E40859E06",
+					"Name": "OfficeContactPhoneNumber",
+					"row": 1,
+					"col": 2,
+					"LabelText": "MD Office Contact Phone Number",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.PhoneNumber",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": true,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "1111111111" ],
+					"DataSource": null,
+					"privilege": "Required",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "1BB988AE-3105-4724-A980-BC4AF90EF924",
+					"Name": "RequestingProviderNetworkCheck",
+					"row": 2,
+					"col": 1,
+					"LabelText": "In Network",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Label",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": true,
+					"isEditable": false,
+					"ToolTip": "",
+					"StringValues": [ "NULL" ],
+					"DataSource": null,
+					"privilege": "Visible",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				}
+			],
+			"Rendering Provider Detail": [
+				{
+					"FieldId": "3507CAA5-BD3C-446A-8ADB-875B1AC8BE04",
+					"Name": "RenderingOfficeContactFaxNumber",
+					"row": 1,
+					"col": 3,
+					"LabelText": "Rendering Fax Number",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.PhoneNumber",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [],
+					"DataSource": null,
+					"privilege": "Optional",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "B8B173C5-0620-47C5-ACAF-C04F5943C18A",
+					"Name": "RenderingOfficeContactName",
+					"row": 1,
+					"col": 1,
+					"LabelText": "Rendering Contact Name",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Text",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [],
+					"DataSource": null,
+					"privilege": "Optional",
+					"NoOfLines": 1,
+					"MaxLength": 20,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "59866E8B-E9FF-4F2F-BE68-F3CC80D81ED0",
+					"Name": "RenderingOfficeContactPhoneNumber",
+					"row": 1,
+					"col": 2,
+					"LabelText": "Rendering Contact Phone Number",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.PhoneNumber",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [],
+					"DataSource": null,
+					"privilege": "Optional",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "96BDC91B-6164-4FCF-9052-5B7D6D2EA631",
+					"Name": "RenderingProviderNetworkCheck",
+					"row": 2,
+					"col": 1,
+					"LabelText": "In Network",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Label",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": true,
+					"isEditable": false,
+					"ToolTip": "",
+					"StringValues": [],
+					"DataSource": null,
+					"privilege": "Visible",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				}
+			],
+			"Authorization Detail": [
+				{
+					"FieldId": "A067E57E-ED04-476B-A0F6-CA6D7C8F033A",
+					"Name": "CompleteClinical",
+					"row": 1,
+					"col": 1,
+					"LabelText": "Complete Clinical",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.DateTime",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [],
+					"DataSource": null,
+					"privilege": "Optional",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": "MM/dd/yyyy hh:mm:ss tt",
+					"DefaultValue": "Unspecified",
+					"FailedField": false,
+					"additionalInfo": [ "DateTime" ]
+				},
+				{
+					"FieldId": "E9E15770-6E96-4B78-B3E1-354594CBB636",
+					"Name": "AuthPriorityChangeIndicator",
+					"row": 2,
+					"col": 1,
+					"LabelText": "Initial Request - Change in Priority",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Text",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": true,
+					"isEditable": false,
+					"ToolTip": "",
+					"StringValues": [ "" ],
+					"DataSource": null,
+					"privilege": "Visible",
+					"NoOfLines": 1,
+					"MaxLength": 20,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				}
+			],
+			"Authorization Line Detail": [
+				{
+					"FieldId": "C78EE29F-9137-46CB-AEF8-BAAC7E6536A6",
+					"Name": "BuyandBill",
+					"row": 1,
+					"col": 2,
+					"LabelText": "Do you intend to purchase this medication to administer in your office and directly bill the medication through the medical benefit?",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Radio",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": true,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "" ],
+					"DataSource": [
+						{
+							"Active": true,
+							"Identifier": "6f486eff-4ae2-4616-ae57-db85cccbc960",
+							"KeyWordValue": "Yes",
+							"Label": "Yes",
+							"Score": 0,
+							"Value": "Yes"
+						},
+						{
+							"Active": true,
+							"Identifier": "fa2be608-cba8-4f2b-859f-b2b1f6050e9e",
+							"KeyWordValue": "No",
+							"Label": "No",
+							"Score": 0,
+							"Value": "No"
+						}
+					],
+					"privilege": "Required",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": "",
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "BF0EEE48-310D-4AA8-9DC6-ECC3937A3162",
+					"Name": "PharmacyDispenseDrugBillPharmacyBenefit",
+					"row": 2,
+					"col": 2,
+					"LabelText": "Do you intend to have a pharmacy dispense drug and bill the pharmacy benefit?",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Radio",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": true,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [ "" ],
+					"DataSource": [
+						{
+							"Active": true,
+							"Identifier": "ee353a01-6de6-4b9e-94a2-e7fc0e09f12d",
+							"KeyWordValue": "Yes",
+							"Label": "Yes",
+							"Score": 0,
+							"Value": "Yes"
+						},
+						{
+							"Active": true,
+							"Identifier": "0b6285bb-780e-4ed4-a3c0-758e24ffe640",
+							"KeyWordValue": "No",
+							"Label": "No",
+							"Score": 0,
+							"Value": "No"
+						}
+					],
+					"privilege": "Required",
+					"NoOfLines": 0,
+					"MaxLength": 0,
+					"Format": null,
+					"DefaultValue": "",
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "0D63EF20-DB6E-48E8-9F1C-03F9467390B6",
+					"Name": "ItemRefillAmount",
+					"row": 1,
+					"col": 1,
+					"LabelText": "Refills",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Text",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [],
+					"DataSource": null,
+					"privilege": "Optional",
+					"NoOfLines": 1,
+					"MaxLength": 20,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				},
+				{
+					"FieldId": "C8325361-E3D7-4374-B585-2B3554666C67",
+					"Name": "PrescriptionSig",
+					"row": 3,
+					"col": 2,
+					"LabelText": "Sig",
+					"ControlType": "Novologix.Shared.Payload.Library.Authorization.Schemas.Text",
+					"Min": 0,
+					"Max": 0,
+					"isRequired": false,
+					"isReadOnly": false,
+					"isEditable": true,
+					"ToolTip": "",
+					"StringValues": [],
+					"DataSource": null,
+					"privilege": "Optional",
+					"NoOfLines": 1,
+					"MaxLength": 20,
+					"Format": null,
+					"DefaultValue": null,
+					"FailedField": false,
+					"additionalInfo": []
+				}
+			],
+			"Quality Review": [],
+			"Review Organization Details": []
+		},
+		"AuthOriginList": [ "Online", "Phone", "Fax", "File" ],
+		"IsAuthComplete": "Incomplete",
+		"isTherapy": false,
+		"isPharmacyPAStatusPending": false,
+		"pharmacyPAOverlayWaittingSeconds": 90
+	},
+	"Errors": null
+}
